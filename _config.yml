@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "jenniexxi"
-  avatar           : "/assets/images/profile/2021me.png/" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile/2021me.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "records of overcoming laziness"
   location         : # ""
   email            : "kong.hh77@gmail.com"
