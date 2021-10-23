@@ -1,7 +1,7 @@
 ---
 title: "Angular vs React vs Vue"
 date: 2021-10-22
-categories: Angular React Vue
+categories: etc
 toc: true
 toc_sticky: true
 
