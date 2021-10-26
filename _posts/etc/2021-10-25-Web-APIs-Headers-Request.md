@@ -1,7 +1,7 @@
 ---
 title: "Web APIs - Headers, Request, Response"
 date: 2021-10-25
-categories: Web APIs
+categories: 개발상식
 toc: true
 toc_sticky: true
 
